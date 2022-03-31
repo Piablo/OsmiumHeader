@@ -1,0 +1,12 @@
+{
+  "name": "osmiumHeader",
+  "version": "0.0.1",
+  "description": "a NextJS header as seen on getosmium.com",
+  "main": "index.js",
+  "author": "Paul Buys",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piablo/OsmiumHeader.git"
+  }
+}
